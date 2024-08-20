@@ -5,12 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usman-17&label=Profile%20views&color=0e75b6&style=flat" alt="usman-17" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Next Js**
-
-- 💬 Ask me about **React**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,5 +14,5 @@
 
 
 
-<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=usman-17&" alt="usman-17" /></p>
+<p><img align="center" width="100%"  src="https://github-readme-streak-stats.herokuapp.com/?user=usman-17&" alt="usman-17" /></p>
 
