@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
 <h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/HECyRSXt6HSw1yz0qC2X08r2Wmk3pHb-6MvaAZlIdyo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.jpeg">
+
+![IMG-20240826-WA0005-fUvHTgwS0-transformed](https://github.com/user-attachments/assets/d6ee8e9f-d504-438b-86fa-65a4d2984168)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usman-17&label=Profile%20views&color=0e75b6&style=flat" alt="usman-17" /> </p>
