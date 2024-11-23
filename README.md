@@ -1,4 +1,4 @@
-<h2 style="font-family: Arial, sans-serif;">Hi 👋, I'm Muhammad Usman !</h2>
+<h2 style="font-family: Arial, sans-serif;">Hi 👋, I'm Muhammad Usman!</h2>
 <p>A passionate MERN stack developer from Pakistan, I specialize in building dynamic and responsive web applications. With expertise in MongoDB, Express.js, React, and Node.js, I am dedicated to creating efficient, scalable, and user-friendly solutions. My enthusiasm for coding and problem-solving drives me to continuously improve my skills and stay updated with the latest industry trends.</p>
 
 ![quality_restoration_20240826130649620 (1)](https://github.com/user-attachments/assets/10441fe2-1bb3-4164-99ae-d0e8fdec0c7a)
